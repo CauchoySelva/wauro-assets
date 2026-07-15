@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T13:01:19.628Z",
+  "generated": "2026-07-15T13:27:02.326Z",
   "count": 13,
   "categories": [
     "personajes",
@@ -99,9 +99,9 @@
         "ptbr": "Canoa Chicha"
       },
       "desc": {
-        "es": "<p>La canoa chicha es una embarcación tradicional tallada en el tronco de un árbol, indispensable para la navegación por los ríos, la pesca y el transporte de personas y mercancías.</p>",
-        "en": "<p>The chicha canoe is a traditional boat carved from a tree trunk, essential for navigating rivers, fishing, and transporting people and goods.</p>",
-        "ptbr": "<p>A canoa chicha é uma embarcação tradicional esculpida em um tronco de árvore, essencial para navegar em rios, pescar e transportar pessoas e mercadorias.</p>"
+        "es": "<p>La canoa de chicha es un recipiente tallado en un tronco en donde se guarda la chicha en la maloca</p>",
+        "en": "<p>The chicha canoe is a container carved from a tree trunk where chicha is stored in the maloca.</p>",
+        "ptbr": "<p>A canoa de chicha é um recipiente esculpido em um tronco de árvore onde a chicha é armazenada na maloca.</p>"
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_CanoaChicha.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_CanoaChicha.png",
