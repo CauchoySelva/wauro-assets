@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T14:11:15.705Z",
+  "generated": "2026-07-15T14:35:36.894Z",
   "count": 13,
   "categories": [
     "personajes",
@@ -29,7 +29,8 @@
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Balay.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Balay.png",
-      "media": []
+      "media": [],
+      "umbral": false
     },
     {
       "id": "Banco",
@@ -48,7 +49,8 @@
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Banco.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Banco.png",
-      "media": []
+      "media": [],
+      "umbral": true
     },
     {
       "id": "Caja-sagrada",
@@ -67,7 +69,8 @@
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_CajaSagrada.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_CajaSagrada.png",
-      "media": []
+      "media": [],
+      "umbral": false
     },
     {
       "id": "Canasto",
@@ -86,7 +89,8 @@
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Canasto.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Canasto.png",
-      "media": []
+      "media": [],
+      "umbral": false
     },
     {
       "id": "Canoa-Chicha",
@@ -105,7 +109,8 @@
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_CanoaChicha.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_CanoaChicha.png",
-      "media": []
+      "media": [],
+      "umbral": false
     },
     {
       "id": "Ceramica01",
@@ -124,7 +129,8 @@
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Ceramica01.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Ceramica01.png",
-      "media": []
+      "media": [],
+      "umbral": false
     },
     {
       "id": "Ceramica02",
@@ -143,7 +149,8 @@
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Ceramica02.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Ceramica02.png",
-      "media": []
+      "media": [],
+      "umbral": false
     },
     {
       "id": "Ceramica03",
@@ -162,7 +169,8 @@
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Ceramica03.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Ceramica03.png",
-      "media": []
+      "media": [],
+      "umbral": false
     },
     {
       "id": "Ceramica04",
@@ -181,7 +189,8 @@
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Ceramica04.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Ceramica04.png",
-      "media": []
+      "media": [],
+      "umbral": false
     },
     {
       "id": "Hamaca",
@@ -200,7 +209,8 @@
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Hamaca.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Hamaca.png",
-      "media": []
+      "media": [],
+      "umbral": false
     },
     {
       "id": "Hoguera",
@@ -219,7 +229,8 @@
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Hoguera.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Hoguera.png",
-      "media": []
+      "media": [],
+      "umbral": false
     },
     {
       "id": "Horno",
@@ -238,7 +249,8 @@
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Horno.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Horno.png",
-      "media": []
+      "media": [],
+      "umbral": false
     },
     {
       "id": "Tipiti",
@@ -257,7 +269,8 @@
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Tipiti.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Tipiti.png",
-      "media": []
+      "media": [],
+      "umbral": false
     }
   ]
 }
