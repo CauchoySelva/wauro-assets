@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T13:27:02.326Z",
+  "generated": "2026-07-15T14:11:15.705Z",
   "count": 13,
   "categories": [
     "personajes",
@@ -122,7 +122,7 @@
         "en": "<p>This handcrafted ceramic piece has been molded and fired using ancestral techniques, and is used both for preparing and cooking food and for storing it.</p>",
         "ptbr": "<p>Esta peça de cerâmica artesanal foi moldada e queimada utilizando técnicas ancestrais, e serve tanto para preparar e cozinhar alimentos quanto para armazená-los.</p>"
       },
-      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Ceramicas01.glb",
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Ceramica01.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Ceramica01.png",
       "media": []
     },
