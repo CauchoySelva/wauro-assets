@@ -1,0 +1,263 @@
+{
+  "generated": "2026-07-15T01:20:51.760Z",
+  "count": 13,
+  "categories": [
+    "personajes",
+    "criaturas",
+    "fauna",
+    "flora",
+    "arquitectura",
+    "vestimenta",
+    "herramientas",
+    "arte"
+  ],
+  "assets": [
+    {
+      "id": "Balay",
+      "catalog": "WA-HER-001",
+      "category": "herramientas",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Balay",
+        "en": "Balay",
+        "ptbr": "Balay"
+      },
+      "desc": {
+        "es": "",
+        "en": "",
+        "ptbr": ""
+      },
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Balay.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Balay",
+      "media": []
+    },
+    {
+      "id": "Banco",
+      "catalog": "WA-HER-002",
+      "category": "herramientas",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Banco",
+        "en": "Bank",
+        "ptbr": "Banco"
+      },
+      "desc": {
+        "es": "",
+        "en": "",
+        "ptbr": ""
+      },
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Banco.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Banco",
+      "media": []
+    },
+    {
+      "id": "Caja-sagrada",
+      "catalog": "WA-HER-003",
+      "category": "herramientas",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Caja Sagrada",
+        "en": "Sacred Box",
+        "ptbr": "Caixa Sagrada"
+      },
+      "desc": {
+        "es": "",
+        "en": "",
+        "ptbr": ""
+      },
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_CajaSagrada.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_CajaSagrada",
+      "media": []
+    },
+    {
+      "id": "Canasto",
+      "catalog": "WA-HER-004",
+      "category": "herramientas",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Canasto",
+        "en": "Basket",
+        "ptbr": "Cesta"
+      },
+      "desc": {
+        "es": "",
+        "en": "",
+        "ptbr": ""
+      },
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Canasto.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Canasto",
+      "media": []
+    },
+    {
+      "id": "Canoa-Chicha",
+      "catalog": "WA-HER-005",
+      "category": "herramientas",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Canoa Chicha",
+        "en": "Chicha Canoe",
+        "ptbr": "Canoa Chicha"
+      },
+      "desc": {
+        "es": "",
+        "en": "",
+        "ptbr": ""
+      },
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_CanoaChicha.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Canoa-Chicha",
+      "media": []
+    },
+    {
+      "id": "Ceramica01",
+      "catalog": "WA-HER-006",
+      "category": "herramientas",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Ceramica 01",
+        "en": "Ceramics 01",
+        "ptbr": "Cerâmica 01"
+      },
+      "desc": {
+        "es": "",
+        "en": "",
+        "ptbr": ""
+      },
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Ceramicas01.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Ceramica01",
+      "media": []
+    },
+    {
+      "id": "Ceramica02",
+      "catalog": "WA-HER-007",
+      "category": "herramientas",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Ceramica 02",
+        "en": "Ceramic 02",
+        "ptbr": "Cerâmica 02"
+      },
+      "desc": {
+        "es": "",
+        "en": "",
+        "ptbr": ""
+      },
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Ceramica02.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Ceramica02",
+      "media": []
+    },
+    {
+      "id": "Ceramica03",
+      "catalog": "WA-HER-008",
+      "category": "herramientas",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Ceramica 03",
+        "en": "Ceramics 03",
+        "ptbr": "Cerâmica 03"
+      },
+      "desc": {
+        "es": "",
+        "en": "",
+        "ptbr": ""
+      },
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Ceramica03.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Ceramica03",
+      "media": []
+    },
+    {
+      "id": "Ceramica04",
+      "catalog": "WA-HER-009",
+      "category": "herramientas",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Ceramica 04",
+        "en": "Ceramics 04",
+        "ptbr": "Cerâmica 04"
+      },
+      "desc": {
+        "es": "",
+        "en": "",
+        "ptbr": ""
+      },
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Ceramica04.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Ceramica04",
+      "media": []
+    },
+    {
+      "id": "Hamaca",
+      "catalog": "WA-HER-010",
+      "category": "herramientas",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Hamaca",
+        "en": "Hammock",
+        "ptbr": "Rede"
+      },
+      "desc": {
+        "es": "",
+        "en": "",
+        "ptbr": ""
+      },
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Hamaca.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Hamaca",
+      "media": []
+    },
+    {
+      "id": "Hoguera",
+      "catalog": "WA-HER-011",
+      "category": "herramientas",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Hoguera",
+        "en": "Bonfire",
+        "ptbr": "Fogueira"
+      },
+      "desc": {
+        "es": "",
+        "en": "",
+        "ptbr": ""
+      },
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Hoguera.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Hoguera",
+      "media": []
+    },
+    {
+      "id": "Horno",
+      "catalog": "WA-HER-012",
+      "category": "herramientas",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Horno",
+        "en": "Oven",
+        "ptbr": "Forno"
+      },
+      "desc": {
+        "es": "",
+        "en": "",
+        "ptbr": ""
+      },
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Horno.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Horno",
+      "media": []
+    },
+    {
+      "id": "Tipiti",
+      "catalog": "WA-HER-013",
+      "category": "herramientas",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Tipiti",
+        "en": "Tipiti",
+        "ptbr": "Tipiti"
+      },
+      "desc": {
+        "es": "",
+        "en": "",
+        "ptbr": ""
+      },
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Tipiti.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Tipiti",
+      "media": []
+    }
+  ]
+}
