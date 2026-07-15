@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T12:50:26.339Z",
+  "generated": "2026-07-15T13:01:19.628Z",
   "count": 13,
   "categories": [
     "personajes",
@@ -23,9 +23,9 @@
         "ptbr": "Balay"
       },
       "desc": {
-        "es": "",
-        "en": "",
-        "ptbr": ""
+        "es": "<p>El balay es una cesta plana tejida de forma artesanal, utilizada tradicionalmente por comunidades indígenas para procesar y limpiar alimentos como la yuca, separando la harina de las impurezas.</p>",
+        "en": "<p>The balay is a flat, handwoven basket, traditionally used by indigenous communities to process and clean foods such as cassava, separating the flour from impurities.</p>",
+        "ptbr": "<p>O balay é uma cesta plana, tecida à mão, tradicionalmente usada por comunidades indígenas para processar e limpar alimentos como a mandioca, separando a farinha das impurezas.</p>"
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Balay.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Balay.png",
@@ -42,9 +42,9 @@
         "ptbr": "Banco"
       },
       "desc": {
-        "es": "",
-        "en": "",
-        "ptbr": ""
+        "es": "<p>Este banco es un asiento tradicional tallado en madera, diseñado con fines prácticos y ceremoniales, proporcionando un lugar de descanso esencial en la vida cotidiana de la comunidad.</p>",
+        "en": "<p>This bench is a traditional seat carved from wood, designed for practical and ceremonial purposes, providing an essential resting place in the daily life of the community.</p>",
+        "ptbr": "<p>Este banco é um assento tradicional esculpido em madeira, projetado para fins práticos e cerimoniais, proporcionando um local de descanso essencial na vida diária da comunidade.</p>"
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Banco.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Banco.png",
@@ -61,9 +61,9 @@
         "ptbr": "Caixa Sagrada"
       },
       "desc": {
-        "es": "",
-        "en": "",
-        "ptbr": ""
+        "es": "<p>La caja sagrada es un recipiente especial destinado a resguardar objetos de gran valor espiritual y ceremonial, protegiendo elementos fundamentales para los rituales tradicionales.</p>",
+        "en": "<p>The sacred box is a special container intended to safeguard objects of great spiritual and ceremonial value, protecting fundamental elements for traditional rituals.</p>",
+        "ptbr": "<p>A caixa sagrada é um recipiente especial destinado a salvaguardar objetos de grande valor espiritual e cerimonial, protegendo elementos fundamentais para rituais tradicionais.</p>"
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_CajaSagrada.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_CajaSagrada.png",
@@ -80,9 +80,9 @@
         "ptbr": "Cesta"
       },
       "desc": {
-        "es": "",
-        "en": "",
-        "ptbr": ""
+        "es": "<p>Un canasto tejido a mano con fibras naturales, utilizado ampliamente para la recolección, transporte y almacenamiento de alimentos, hierbas y otros recursos vitales del entorno.</p>",
+        "en": "<p>A handwoven basket made with natural fibers, widely used for the collection, transport, and storage of food, herbs, and other vital resources from the environment.</p>",
+        "ptbr": "<p>Cesto trançado à mão com fibras naturais, amplamente utilizado para a coleta, transporte e armazenamento de alimentos, ervas e outros recursos vitais do meio ambiente.</p>"
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Canasto.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Canasto.png",
@@ -99,9 +99,9 @@
         "ptbr": "Canoa Chicha"
       },
       "desc": {
-        "es": "",
-        "en": "",
-        "ptbr": ""
+        "es": "<p>La canoa chicha es una embarcación tradicional tallada en el tronco de un árbol, indispensable para la navegación por los ríos, la pesca y el transporte de personas y mercancías.</p>",
+        "en": "<p>The chicha canoe is a traditional boat carved from a tree trunk, essential for navigating rivers, fishing, and transporting people and goods.</p>",
+        "ptbr": "<p>A canoa chicha é uma embarcação tradicional esculpida em um tronco de árvore, essencial para navegar em rios, pescar e transportar pessoas e mercadorias.</p>"
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_CanoaChicha.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_CanoaChicha.png",
@@ -118,9 +118,9 @@
         "ptbr": "Cerâmica 01"
       },
       "desc": {
-        "es": "",
-        "en": "",
-        "ptbr": ""
+        "es": "<p>Esta pieza de cerámica artesanal ha sido moldeada y cocida siguiendo técnicas ancestrales, utilizada tanto para la preparación y cocción de alimentos como para su almacenamiento.</p>",
+        "en": "<p>This handcrafted ceramic piece has been molded and fired using ancestral techniques, and is used both for preparing and cooking food and for storing it.</p>",
+        "ptbr": "<p>Esta peça de cerâmica artesanal foi moldada e queimada utilizando técnicas ancestrais, e serve tanto para preparar e cozinhar alimentos quanto para armazená-los.</p>"
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Ceramicas01.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Ceramica01.png",
@@ -137,9 +137,9 @@
         "ptbr": "Cerâmica 02"
       },
       "desc": {
-        "es": "",
-        "en": "",
-        "ptbr": ""
+        "es": "<p>Una vasija de cerámica tradicional que destaca por su diseño funcional, empleada cotidianamente en el hogar para contener líquidos y preservar ingredientes básicos de la dieta.</p>",
+        "en": "<p>A traditional ceramic vessel that stands out for its functional design, used daily in the home to hold liquids and preserve basic dietary ingredients.</p>",
+        "ptbr": "<p>Um recipiente de cerâmica tradicional que se destaca pelo seu design funcional, usado diariamente em casa para armazenar líquidos e conservar ingredientes básicos da alimentação.</p>"
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Ceramica02.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Ceramica02.png",
@@ -156,9 +156,9 @@
         "ptbr": "Cerâmica 03"
       },
       "desc": {
-        "es": "",
-        "en": "",
-        "ptbr": ""
+        "es": "<p>Artefacto de cerámica con detalles propios de la cultura local, diseñado para soportar altas temperaturas y facilitar la elaboración de comidas tradicionales en el fuego.</p>",
+        "en": "<p>Ceramic artifact with details typical of the local culture, designed to withstand high temperatures and facilitate the preparation of traditional foods over a fire.</p>",
+        "ptbr": "<p>Artefato de cerâmica com detalhes típicos da cultura local, projetado para suportar altas temperaturas e facilitar o preparo de alimentos tradicionais sobre o fogo.</p>"
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Ceramica03.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Ceramica03.png",
@@ -175,9 +175,9 @@
         "ptbr": "Cerâmica 04"
       },
       "desc": {
-        "es": "",
-        "en": "",
-        "ptbr": ""
+        "es": "<p>Recipiente de cerámica elaborado con arcilla de la región, utilizado frecuentemente en contextos ceremoniales o domésticos para servir y compartir alimentos en comunidad.</p>",
+        "en": "<p>Ceramic container made with clay from the region, frequently used in ceremonial or domestic contexts to serve and share food in the community.</p>",
+        "ptbr": "<p>Recipiente de cerâmica feito com argila da região, frequentemente usado em contextos cerimoniais ou domésticos para servir e compartilhar alimentos na comunidade.</p>"
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Ceramica04.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Ceramica04.png",
@@ -194,9 +194,9 @@
         "ptbr": "Rede"
       },
       "desc": {
-        "es": "",
-        "en": "",
-        "ptbr": ""
+        "es": "<p>La hamaca es una cama colgante tejida con hilos resistentes, que ofrece un espacio cómodo y fresco para el descanso, protegiendo a las personas de la humedad y los animales del suelo.</p>",
+        "en": "<p>The hammock is a hanging bed woven with strong threads, offering a comfortable and cool space for rest, protecting people from moisture and animals on the ground.</p>",
+        "ptbr": "<p>A rede é uma cama suspensa tecida com fios resistentes, que oferece um espaço confortável e fresco para descanso, protegendo as pessoas da umidade e dos animais no chão.</p>"
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Hamaca.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Hamaca.png",
@@ -213,9 +213,9 @@
         "ptbr": "Fogueira"
       },
       "desc": {
-        "es": "",
-        "en": "",
-        "ptbr": ""
+        "es": "<p>La hoguera representa el fuego abierto, centro vital de la comunidad donde se preparan los alimentos, se comparte el calor y se transmiten historias y tradiciones durante la noche.</p>",
+        "en": "<p>The bonfire represents the open fire, the vital center of the community where food is prepared, warmth is shared, and stories and traditions are passed on during the night.</p>",
+        "ptbr": "<p>A fogueira representa o fogo aberto, o centro vital da comunidade onde a comida é preparada, o calor é compartilhado e histórias e tradições são transmitidas durante a noite.</p>"
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Hoguera.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Hoguera.png",
@@ -232,9 +232,9 @@
         "ptbr": "Forno"
       },
       "desc": {
-        "es": "",
-        "en": "",
-        "ptbr": ""
+        "es": "<p>Esta estructura para cocinar, construida con materiales locales como barro y piedra, permite hornear y preparar alimentos de manera eficiente, conservando los sabores tradicionales.</p>",
+        "en": "<p>This cooking structure, built with local materials such as clay and stone, allows for efficient baking and food preparation, preserving traditional flavors.</p>",
+        "ptbr": "<p>Essa estrutura de cozinha, construída com materiais locais como barro e pedra, permite assar e preparar alimentos de forma eficiente, preservando os sabores tradicionais.</p>"
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Horno.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Horno.png",
@@ -251,9 +251,9 @@
         "ptbr": "Tipiti"
       },
       "desc": {
-        "es": "",
-        "en": "",
-        "ptbr": ""
+        "es": "<p>El tipití es una prensa cilíndrica tejida con fibras vegetales, un instrumento ingenioso y fundamental para extraer el jugo tóxico de la yuca amarga durante la preparación del casabe.</p>",
+        "en": "<p>The tipi is a cylindrical press woven with plant fibers, an ingenious and fundamental instrument for extracting the toxic juice from bitter cassava during the preparation of casabe.</p>",
+        "ptbr": "<p>O tipi é uma prensa cilíndrica tecida com fibras vegetais, um instrumento engenhoso e fundamental para extrair o suco tóxico da mandioca amarga durante o preparo do casabe.</p>"
       },
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Tipiti.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Tipiti.png",
