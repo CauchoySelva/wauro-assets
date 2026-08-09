@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-09T18:44:29.650Z",
+  "generated": "2026-08-09T18:49:03.705Z",
   "count": 13,
   "categories": [
     "estructuras",
@@ -33,7 +33,7 @@
         "ptbr": "Fibras vegetais"
       },
       "dimensiones": "",
-      "pueblo": "Tukano",
+      "pueblo": "Tukano, Desano",
       "lugar": "Vaupés",
       "asociaciones": "",
       "bibliografia": "",
@@ -165,7 +165,7 @@
         "ptbr": "Madeira"
       },
       "dimensiones": "",
-      "pueblo": "Tukano",
+      "pueblo": "Tukano, Desano",
       "lugar": "Vaupés",
       "asociaciones": "",
       "bibliografia": "",
@@ -199,7 +199,7 @@
       },
       "dimensiones": "",
       "pueblo": "Tukano",
-      "lugar": "Vaupés",
+      "lugar": "Vaupés, Piracuara",
       "asociaciones": "",
       "bibliografia": "",
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Ceramica01.glb",
@@ -265,7 +265,7 @@
       },
       "dimensiones": "",
       "pueblo": "Tukano",
-      "lugar": "Vaupés",
+      "lugar": "Vaupés, Piracuara",
       "asociaciones": "",
       "bibliografia": "",
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Ceramica03.glb",
@@ -297,7 +297,7 @@
         "ptbr": "Argila"
       },
       "dimensiones": "",
-      "pueblo": "Tukano",
+      "pueblo": "Tukano, Desano",
       "lugar": "Vaupés",
       "asociaciones": "",
       "bibliografia": "",
@@ -363,7 +363,7 @@
         "ptbr": "Argila"
       },
       "dimensiones": "",
-      "pueblo": "Tukano",
+      "pueblo": "Tukano, Desano",
       "lugar": "Vaupés",
       "asociaciones": "",
       "bibliografia": "",
