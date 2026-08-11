@@ -1,0 +1,32 @@
+# Guardar como: .github/workflows/optimizar.yml  (en el repo wauro-assets)
+name: Optimizar modelo
+on:
+  repository_dispatch:
+    types: [optimizar]
+permissions:
+  contents: write
+jobs:
+  optimizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - name: Descargar original desde Drive
+        run: curl -L -o original.glb "${{ github.event.client_payload.file_url }}"
+      - name: Optimizar (Draco + WebP 2048)
+        run: |
+          npm install --no-audit --no-fund @gltf-transform/core@^4.1.0 @gltf-transform/extensions@^4.1.0 @gltf-transform/functions@^4.1.0 draco3dgltf@^1.5.7 sharp@^0.33.5
+          node tools/optimizar.mjs original.glb "models/${{ github.event.client_payload.model_name }}"
+      - name: Commit al repo
+        run: |
+          git config user.name "wauro-bot"
+          git config user.email "bot@estudiolaselva.com"
+          git add "models/${{ github.event.client_payload.model_name }}"
+          git commit -m "Carga web: ${{ github.event.client_payload.model_name }} (${{ github.event.client_payload.id }})" || echo "sin cambios"
+          git push
+      - name: Avisar al backend (revoca el enlace temporal)
+        run: |
+          curl -s -L -X POST "${{ secrets.WAURO_CALLBACK_URL }}" \
+            -H "Content-Type: text/plain;charset=utf-8" \
+            -d "{\"clave\":\"${{ secrets.WAURO_CLAVE }}\",\"accion\":\"finalizar\",\"id\":\"${{ github.event.client_payload.id }}\",\"file_id\":\"${{ github.event.client_payload.file_id }}\",\"model_name\":\"${{ github.event.client_payload.model_name }}\"}"
