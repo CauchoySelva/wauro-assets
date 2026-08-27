@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T18:40:48.135Z",
+  "generated": "2026-08-27T18:07:50.793Z",
   "count": 13,
   "categories": [
     "estructuras",
@@ -337,7 +337,7 @@
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Hamaca.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Hamaca.png",
       "media": [],
-      "umbral": false
+      "umbral": true
     },
     {
       "id": "Hoguera",
@@ -374,10 +374,10 @@
     },
     {
       "id": "Horno",
-      "catalog": "WA.VA.A.0001",
-      "category": "estructuras",
+      "catalog": "WA.VA.B.0012",
+      "category": "artefactos",
       "clase": "Indígena",
-      "subclase": "Producción",
+      "subclase": "Cocina",
       "provenance": "reconstruccion",
       "name": {
         "es": "Horno",
@@ -407,7 +407,7 @@
     },
     {
       "id": "Tipiti",
-      "catalog": "WA.VA.B.0012",
+      "catalog": "WA.VA.B.0013",
       "category": "artefactos",
       "clase": "Indígena",
       "subclase": "Cocina",
