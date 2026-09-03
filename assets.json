@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T15:32:45.055Z",
-  "count": 13,
+  "generated": "2026-09-03T01:56:04.054Z",
+  "count": 14,
   "categories": [
     "estructuras",
     "artefactos",
@@ -337,7 +337,7 @@
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Hamaca.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Hamaca.png",
       "media": [],
-      "umbral": true
+      "umbral": false
     },
     {
       "id": "Hoguera",
@@ -435,6 +435,39 @@
       "bibliografia": "",
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_Tipiti.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Tipiti.png",
+      "media": [],
+      "umbral": false
+    },
+    {
+      "id": "tucu",
+      "catalog": "WA.VA.C.0001",
+      "category": "personajes",
+      "clase": "No humanos",
+      "subclase": "Gente Pez",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Tucú",
+        "en": "Tucú",
+        "ptbr": "Tucú"
+      },
+      "desc": {
+        "es": "<p>Tucú es un wa’ímahsʉ, u Hombre Pez perteneciente a la Gente Pez que habita Wamʉdia, también llamado Mundo de Abajo o Tierra del Umarí, un mundo espiritual situado debajo de los ríos y normalmente invisible para los seres humanos. Como otros habitantes de Wamʉdia, Tucú puede manifestarse en el mundo material mediante distintas apariencias o “pieles”, adoptando formas humanas, pisciformes o híbridas.</p>",
+        "en": "<p>Tucú is a wa’ímahsʉ, or Fish Man, belonging to the Fish People who inhabit Wamʉdia, also called the Underworld or Land of Umarí, a spiritual world located beneath the rivers and normally invisible to human beings. Like other inhabitants of Wamʉdia, Tucú can manifest in the material world through different appearances or “skins,” adopting human, fish-like, or hybrid forms.</p>",
+        "ptbr": "<p>Tucú é um wa’ímahsʉ, ou Homem-Peixe, pertencente ao Povo-Peixe que habita Wamʉdia, também chamado de Mundo Inferior ou Terra de Umarí, um mundo espiritual localizado sob os rios e normalmente invisível aos seres humanos. Como outros habitantes de Wamʉdia, Tucú pode se manifestar no mundo material através de diferentes aparências ou “peles”, assumindo formas humanas, semelhantes a peixes ou híbridas.</p>"
+      },
+      "otros_nombres": "wa’ímahsʉ, Hombre Pez, Gente Pez",
+      "materiales": {
+        "es": "",
+        "en": "",
+        "ptbr": ""
+      },
+      "dimensiones": "1,90m",
+      "pueblo": "Tukano",
+      "lugar": "Colombia>Vaupés>Río Papurí",
+      "asociaciones": "",
+      "bibliografia": "",
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SK_Tucu.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Tucu.png",
       "media": [],
       "umbral": false
     }
