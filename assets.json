@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T01:56:04.054Z",
-  "count": 14,
+  "generated": "2026-09-08T13:46:00.177Z",
+  "count": 27,
   "categories": [
     "estructuras",
     "artefactos",
@@ -439,6 +439,474 @@
       "umbral": false
     },
     {
+      "id": "brazalete-codo",
+      "catalog": "WA.VA.B.0014",
+      "category": "artefactos",
+      "clase": "Indígena",
+      "subclase": "Accesorios personales",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Codera de semillas",
+        "en": "Seed elbow pad",
+        "ptbr": "Cotoveleira de sementes"
+      },
+      "desc": {
+        "es": "<p>Es un brazalete que va arriba de la articulación del codo. Consiste de semillas negras brillantes, atravesadas por un hilo de fibra natural.</p>",
+        "en": "<p>It's a bracelet that goes above the elbow joint. It consists of shiny black seeds, strung on a natural fiber thread.</p>",
+        "ptbr": "<p>É uma pulseira que se usa acima da articulação do cotovelo. É composta por sementes pretas brilhantes, enfiadas em um fio de fibra natural.</p>"
+      },
+      "otros_nombres": "",
+      "materiales": {
+        "es": "Semillas de XX, hilo de fibra natural",
+        "en": "XX seeds, natural fiber yarn",
+        "ptbr": "Sementes XX, fio de fibra natural"
+      },
+      "dimensiones": "10 x 10 x 2",
+      "pueblo": "Barasano",
+      "lugar": "Colombia>Vaupés>Río Pirá-Paraná",
+      "asociaciones": "",
+      "bibliografia": "",
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_BrazaleteCodo.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_BrazaleteCodo.png",
+      "media": [
+        {
+          "type": "image",
+          "caption": {
+            "es": "Codera de semillas",
+            "en": "Seed elbow pad",
+            "ptbr": "Cotoveleira de sementes"
+          },
+          "source": "Colección Etnográfica ICANH",
+          "src": "https://cauchoyselva.github.io/wauro-assets/media/Brazalete_codo_1.jpg"
+        },
+        {
+          "type": "image",
+          "caption": {
+            "es": "Barasano con codera de semillas",
+            "en": "Indigenous man from Barasano collecting coca leaves with a bracelet",
+            "ptbr": "Homem indígena de Barasano colhendo folhas de coca com uma pulseira"
+          },
+          "source": "Colección Fotográfica Brian Moser",
+          "src": "https://cauchoyselva.github.io/wauro-assets/media/Brazalete_codo_2.png"
+        }
+      ],
+      "umbral": false
+    },
+    {
+      "id": "collar-conchas-conicas",
+      "catalog": "WA.VA.B.0015",
+      "category": "artefactos",
+      "clase": "Indígena",
+      "subclase": "Ceremonial",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Collar de Conchas Cónicas",
+        "en": "Necklace of Conical Shells",
+        "ptbr": "Colar de Conchas Cônicas"
+      },
+      "desc": {
+        "es": "<p>Collar hecho de cochas de XXX, perforadas y unidas con hilo de fibra natural a una trenza de fibra natural</p>",
+        "en": "<p>Necklace made of XXX shells, perforated and joined with natural fiber thread to a natural fiber braid</p>",
+        "ptbr": "<p>Colar feito de conchas XXX, perfuradas e unidas com fio de fibra natural a uma trança de fibra natural.</p>"
+      },
+      "otros_nombres": "",
+      "materiales": {
+        "es": "Concha de XXX, Hilo de fibra natural, Trenza de fibra natural",
+        "en": "Shell of XXX, Natural fiber thread, Natural fiber braid",
+        "ptbr": "Concha de XXX, fio de fibra natural, trança de fibra natural"
+      },
+      "dimensiones": "",
+      "pueblo": "Tukano, Desano",
+      "lugar": "Colombia>Vaupés>Río Papurí; Río Vaupés",
+      "asociaciones": "",
+      "bibliografia": "",
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_CollarConchasConicas.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_CollarConcha01.png",
+      "media": [
+        {
+          "type": "image",
+          "caption": {
+            "es": "Moisés Guerrero con Collares",
+            "en": "Moses Guerrero with Necklaces",
+            "ptbr": "Moisés Guerrero com colares"
+          },
+          "source": "Andrés Amaya Nasser",
+          "src": "https://cauchoyselva.github.io/wauro-assets/media/DSC_8865.jpg"
+        }
+      ],
+      "umbral": false
+    },
+    {
+      "id": "collar-conchas-planas",
+      "catalog": "WA.VA.B.0016",
+      "category": "artefactos",
+      "clase": "Indígena",
+      "subclase": "Ceremonial",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Collar de Conchas Planas",
+        "en": "Flat Shell Necklace",
+        "ptbr": "Colar de concha plana"
+      },
+      "desc": {
+        "es": "<p>Collar hecho de concha de XXX, perforadas y amarradas mediante un hilo a una trenza de fibra natural</p>",
+        "en": "<p>Necklace made of XXX shell, perforated and tied with thread to a natural fiber braid</p>",
+        "ptbr": "<p>Colar feito de concha XXX, perfurada e amarrada com fio a uma trança de fibra natural.</p>"
+      },
+      "otros_nombres": "",
+      "materiales": {
+        "es": "Concha de XXX, Hilo de fibra natural, Trenza de fibra natural",
+        "en": "Shell of XXX, Natural fiber thread, Natural fiber braid",
+        "ptbr": "Concha de XXX, fio de fibra natural, trança de fibra natural"
+      },
+      "dimensiones": "",
+      "pueblo": "Tukano, Desano",
+      "lugar": "Colombia>Vaupés>Río Papurí; Río Vaupés",
+      "asociaciones": "",
+      "bibliografia": "",
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_CollarConchasPlanas.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_CollarConchas02.png",
+      "media": [
+        {
+          "type": "image",
+          "caption": {
+            "es": "Moisés Guerrero con Collares",
+            "en": "Moses Guerrero with Necklaces",
+            "ptbr": "Moisés Guerrero com colares"
+          },
+          "source": "Andrés Amaya Nasser",
+          "src": "https://cauchoyselva.github.io/wauro-assets/media/DSC_8865.jpg"
+        }
+      ],
+      "umbral": false
+    },
+    {
+      "id": "collar-ceramica",
+      "catalog": "WA.VA.B.0017",
+      "category": "artefactos",
+      "clase": "Indígena",
+      "subclase": "Accesorios personales",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Collar de Cuentas de Cerámica",
+        "en": "Ceramic Bead Necklace",
+        "ptbr": "Colar de contas de cerâmica"
+      },
+      "desc": {
+        "es": "<p>Collar elaborado con pita de fibra vegetal y cuentas cilíndricas de cerámica blanca, roja, café y ocre</p>",
+        "en": "<p>Necklace made with pita fiber and cylindrical ceramic beads in white, red, brown and ochre</p>",
+        "ptbr": "<p>Colar feito com fibra de pita e contas cilíndricas de cerâmica nas cores branca, vermelha, marrom e ocre.</p>"
+      },
+      "otros_nombres": "",
+      "materiales": {
+        "es": "Cuentas de cerámica, fibra vegetal",
+        "en": "Ceramic beads, plant fiber",
+        "ptbr": "Contas de cerâmica, fibra vegetal"
+      },
+      "dimensiones": "",
+      "pueblo": "Tukano, Desano, Piratapuyo, Wanano, Tariano",
+      "lugar": "Colombia>Vaupés>Río Vaupés",
+      "asociaciones": "",
+      "bibliografia": "",
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_CollarCeramica.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_CollarChaquiras.png",
+      "media": [
+        {
+          "type": "image",
+          "caption": {
+            "es": "Collar de Cuentas de Cerámica Grueso",
+            "en": "Thick Ceramic Bead Necklace",
+            "ptbr": "Colar de contas de cerâmica grossas"
+          },
+          "source": "Colección Etnográfica ICANH",
+          "src": "https://cauchoyselva.github.io/wauro-assets/media/Collar_de_cuentas_de_ceramica_I.jpg"
+        },
+        {
+          "type": "image",
+          "caption": {
+            "es": "Collar de Cuentas de Cerámica Delgado",
+            "en": "Thin Ceramic Bead Necklace",
+            "ptbr": "Colar de contas de cerâmica finas"
+          },
+          "source": "Colección Etnográfica ICANH",
+          "src": "https://cauchoyselva.github.io/wauro-assets/media/Collar_de_cuentas_de_ceramica_II.jpg"
+        }
+      ],
+      "umbral": false
+    },
+    {
+      "id": "collar-costilla-culebra",
+      "catalog": "WA.VA.B.0018",
+      "category": "artefactos",
+      "clase": "Indígena",
+      "subclase": "Ceremonial",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Collar de costillas de culebra",
+        "en": "Snake rib necklace",
+        "ptbr": "colar de costela de cobra"
+      },
+      "desc": {
+        "es": "<p>Collar de costillas de culebra talladas, perforadas y amarradas con un hilo de fibra natural</p>",
+        "en": "<p>Necklace of carved, perforated snake ribs tied with a natural fiber thread</p>",
+        "ptbr": "<p>Colar de costelas de cobra esculpidas e perfuradas, amarradas com um fio de fibra natural.</p>"
+      },
+      "otros_nombres": "",
+      "materiales": {
+        "es": "Costillas de culebra, Fibra natural",
+        "en": "Snake ribs, Natural fiber",
+        "ptbr": "Costelas de cobra, fibra natural"
+      },
+      "dimensiones": "",
+      "pueblo": "Tukano, Desano, Piratapuyo, Wanano, Tariano, Arapaso",
+      "lugar": "Colombia>Vaupés>Río Vaupés",
+      "asociaciones": "",
+      "bibliografia": "",
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_CollarCostillaCulebra.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_CollarSerpiente.png",
+      "media": [
+        {
+          "type": "image",
+          "caption": {
+            "es": "Collar de costillas de culebra I",
+            "en": "Snake rib necklace I",
+            "ptbr": "Colar de costela de cobra I"
+          },
+          "source": "National Museum of the American Indian",
+          "src": "https://cauchoyselva.github.io/wauro-assets/media/Collar_Costillas_culebra_I.jpg"
+        },
+        {
+          "type": "image",
+          "caption": {
+            "es": "Collar de costillas de culebra II",
+            "en": "Snake rib necklace II",
+            "ptbr": "Colar de costela de cobra II"
+          },
+          "source": "Colección Etnográfica ICANH",
+          "src": "https://cauchoyselva.github.io/wauro-assets/media/Collar_costillas_de_culebra_II.jpg"
+        }
+      ],
+      "umbral": false
+    },
+    {
+      "id": "collar-colmillos-semillas",
+      "catalog": "WA.VA.B.0019",
+      "category": "artefactos",
+      "clase": "Indígena",
+      "subclase": "Ceremonial",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Collar de Colmillos de Jaguar y Semillas",
+        "en": "Jaguar Fang and Seed Necklace",
+        "ptbr": "Colar de Presa de Jaguar e Semente"
+      },
+      "desc": {
+        "es": "<p>Collar de colmillos de jaguar y de semillas de XXX perforadas y unidas por un hilo de fibra natural</p>",
+        "en": "<p>Necklace of jaguar fangs and XXX seeds, perforated and joined by a natural fiber thread</p>",
+        "ptbr": "<p>Colar de presas de jaguar e sementes XXX, perfurado e unido por um fio de fibra natural.</p>"
+      },
+      "otros_nombres": "",
+      "materiales": {
+        "es": "Colmillos de jaguar, Semillas de XXX, Hilo de fibra natural",
+        "en": "Jaguar fangs, XXX seeds, natural fiber thread",
+        "ptbr": "Presas de jaguar, sementes XXX, fio de fibra natural"
+      },
+      "dimensiones": "",
+      "pueblo": "Barasano, Tatuyo, Karapana",
+      "lugar": "Colombia>Vaupés>Río Pirá-Paraná",
+      "asociaciones": "",
+      "bibliografia": "",
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_CollarColmillosSemillas.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_CollarColmillos.png",
+      "media": [],
+      "umbral": false
+    },
+    {
+      "id": "collar-cuarzo",
+      "catalog": "WA.VA.B.0020",
+      "category": "artefactos",
+      "clase": "Indígena",
+      "subclase": "Accesorios personales",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Collar con Pendiente de Cuarzo",
+        "en": "Necklace with Quartz Pendant",
+        "ptbr": "Colar com pingente de quartzo"
+      },
+      "desc": {
+        "es": "<p>Collar con pendiente cilíndrico de cuarzo blanco perforado y semillas, ensartado con hilo de fibra vegetal</p>",
+        "en": "<p>Necklace with a cylindrical pendant of perforated white quartz and seeds, strung with plant fiber thread</p>",
+        "ptbr": "<p>Colar com pingente cilíndrico de quartzo branco perfurado e sementes, com fio de fibra vegetal.</p>"
+      },
+      "otros_nombres": "",
+      "materiales": {
+        "es": "Cuarzo blanco, semillas XX, hilo de fibra vegetal",
+        "en": "White quartz, XX seeds, plant fiber thread",
+        "ptbr": "Quartzo branco, XX sementes, fio de fibra vegetal"
+      },
+      "dimensiones": "3 CM X 37 CM X 8 CM",
+      "pueblo": "Tukano, Desano, Piratapuyo, Wanano, Tariano",
+      "lugar": "Colombia>Vaupés>Río Papurí; Río Vaupés",
+      "asociaciones": "",
+      "bibliografia": "",
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_CollarCuarzo.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_CollarCuarzo.png",
+      "media": [
+        {
+          "type": "image",
+          "caption": {
+            "es": "Collar con Pendiente de Cuarzo",
+            "en": "Necklace with Quartz Pendant",
+            "ptbr": "Colar com pingente de quartzo"
+          },
+          "source": "Colección Etnográfica ICANH",
+          "src": "https://cauchoyselva.github.io/wauro-assets/media/Collar_de_cuarzo_1.jpg"
+        },
+        {
+          "type": "image",
+          "caption": {
+            "es": "Collar con Pendiente de Cuarzo",
+            "en": "Necklace with Quartz Pendant",
+            "ptbr": "Colar com pingente de quartzo"
+          },
+          "source": "National Museum of the American Indian",
+          "src": "https://cauchoyselva.github.io/wauro-assets/media/collar_de_cuarzo_3.jpg"
+        }
+      ],
+      "umbral": false
+    },
+    {
+      "id": "corona-diadema",
+      "catalog": "WA.VA.B.0021",
+      "category": "artefactos",
+      "clase": "Indígena",
+      "subclase": "Ceremonial",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Diadema de Plumas",
+        "en": "Feather Headband",
+        "ptbr": "Tiara de penas"
+      },
+      "desc": {
+        "es": "<p>Corona hecha de dos diademas planas de fibra de XXX, unidas entre sí y amarradas en la parte trasera para darle su forma redonda. En la ranura entre ambas diademas se insertan las plumas de de guacamaya roja, oropéndola y loro.</p>",
+        "en": "<p>A crown made of two flat fiber headbands, joined together and tied at the back to give it its round shape. Scarlet macaw, oriole, and parrot feathers are inserted into the groove between the headbands.</p>",
+        "ptbr": "<p>Uma coroa feita de duas faixas de fibra planas, unidas e amarradas na parte de trás para lhe dar o formato arredondado. Penas de arara-vermelha, oriole e papagaio são inseridas na ranhura entre as faixas.</p>"
+      },
+      "otros_nombres": "",
+      "materiales": {
+        "es": "Fibra de XXX, Plumas de Guacamaya, Plumas de Oropéndola, Plumas de Loro",
+        "en": "XXX Fiber, Macaw Feathers, Oriole Feathers, Parrot Feathers",
+        "ptbr": "Fibra XXX, Penas de Arara, Penas de Oriole, Penas de Papagaio"
+      },
+      "dimensiones": "",
+      "pueblo": "Todos",
+      "lugar": "Colombia>Vaupés>Río Papurí; Río Vaupés",
+      "asociaciones": "",
+      "bibliografia": "",
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_CoronaDiadema.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Corona.png",
+      "media": [],
+      "umbral": false
+    },
+    {
+      "id": "taparrabos-tela",
+      "catalog": "WA.VA.B.0022",
+      "category": "artefactos",
+      "clase": "Indígena",
+      "subclase": "Accesorios personales",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Taparrabos de tela",
+        "en": "Cloth loincloth",
+        "ptbr": "tanga de tecido"
+      },
+      "desc": {
+        "es": "<p>Taparrabos masculini de lino blanco con hilo de fibra natural para amarrar</p>",
+        "en": "<p>Men's white linen loincloth with natural fiber thread for tying</p>",
+        "ptbr": "<p>Tanga masculina de linho branco com fio de fibra natural para amarrar.</p>"
+      },
+      "otros_nombres": "",
+      "materiales": {
+        "es": "Lino, hilo de fibra natural",
+        "en": "Linen, natural fiber yarn",
+        "ptbr": "Linho, fio de fibra natural"
+      },
+      "dimensiones": "",
+      "pueblo": "",
+      "lugar": "Colombia>Vaupés",
+      "asociaciones": "",
+      "bibliografia": "",
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_TaparrabosTela.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Calzon.png",
+      "media": [
+        {
+          "type": "image",
+          "caption": {
+            "es": "Hombre tukano con taparrabo de tela I",
+            "en": "Turkano man with cloth loincloth I",
+            "ptbr": "Homem Turkano com tanga de pano I"
+          },
+          "source": "Koch-Grünberg, T. (1906). Indianertypen aus dem Amazonasgebiet nach eigenen Aufnahmen während seiner Reise in Brasilien. Berlin: E. Wasmuth A.-G",
+          "src": "https://cauchoyselva.github.io/wauro-assets/media/Hombre_tukano_con_taparrabo_de_tela_I.png"
+        },
+        {
+          "type": "image",
+          "caption": {
+            "es": "Hombre tukano con taparrabo de tela II",
+            "en": "Tukano man with cloth loincloth II",
+            "ptbr": "Homem Tukano com tanga de pano II"
+          },
+          "source": "Koch-Grünberg, T. (1906). Indianertypen aus dem Amazonasgebiet nach eigenen Aufnahmen während seiner Reise in Brasilien. Berlin: E. Wasmuth A.-G",
+          "src": "https://cauchoyselva.github.io/wauro-assets/media/Hombre_tukano_con_taparrabo_de_tela_II.png"
+        }
+      ],
+      "umbral": false
+    },
+    {
+      "id": "baston-mando-penacho",
+      "catalog": "WA.VA.B.0023",
+      "category": "artefactos",
+      "clase": "Indígena",
+      "subclase": "Ceremonial",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Baston de Mando con Penacho de Plumas",
+        "en": "Staff of Command with Feather Plume",
+        "ptbr": "Bastão de Comando com Pluma"
+      },
+      "desc": {
+        "es": "<p>Baston de Mando hecho de madera de XXX pulida. Estos bastones en forma de lanza cuentan con una terminación puntiaguda para ser clavados en el suelo y con una terminación plana cuidadosamente tallada y pintada con diseños chamánicos. Hacia la terminación puntiaguda cuentan con una abertura con semillas adentro que funciona en forma de maraca. En ceremonias especiales, a estos bastones se les inserta un penacho de plumas que consiste en una red de fibra natural amarrada a una circunferencia de madera de la cual cuelgan plumas de guacamaya, oropéndola y águila</p>",
+        "en": "<p>Staff of Command made of polished XXX wood. These spear-shaped staffs have a pointed end for planting in the ground and a flat end carefully carved and painted with shamanic designs. Near the pointed end, there is an opening filled with seeds that function as a maraca. In special ceremonies, these staffs are adorned with a feather headdress consisting of a net of natural fibers tied to a wooden frame from which macaw, oropendola, and eagle feathers hang.</p>",
+        "ptbr": "<p>Bastão de Comando feito de madeira polida XXX. Estes bastões em forma de lança possuem uma ponta afiada para serem fincados no solo e uma extremidade plana cuidadosamente esculpida e pintada com desenhos xamânicos. Próximo à ponta afiada, há uma abertura preenchida com sementes que funcionam como um chocalho. Em cerimônias especiais, estes bastões são adornados com um cocar de penas composto por uma rede de fibras naturais amarrada a uma estrutura de madeira da qual pendem penas de arara, oropendola e águia.</p>"
+      },
+      "otros_nombres": "Yaigʉ",
+      "materiales": {
+        "es": "Madera de XXX, Plumas de Guacamaya, Plumas de Oropéndola, Plumas de Águila",
+        "en": "XXX wood, Macaw feathers, Oropendola feathers, Eagle feathers",
+        "ptbr": "Madeira XXX, penas de arara, penas de oropendola, penas de águia"
+      },
+      "dimensiones": "",
+      "pueblo": "Todos",
+      "lugar": "Colombia>Vaupés>Río Vaupés",
+      "asociaciones": "",
+      "bibliografia": "",
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_BastonMandoPenacho.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_BastonDeMando.png",
+      "media": [
+        {
+          "type": "image",
+          "caption": {
+            "es": "Bastón Makuna",
+            "en": "Makuna staff",
+            "ptbr": "Equipe Makuna"
+          },
+          "source": "Colección Etnográfica ICANH",
+          "src": "https://cauchoyselva.github.io/wauro-assets/media/baston-kurubeti-makuna-e-90-iv-42.webp"
+        }
+      ],
+      "umbral": false
+    },
+    {
       "id": "tucu",
       "catalog": "WA.VA.C.0001",
       "category": "personajes",
@@ -468,6 +936,147 @@
       "bibliografia": "",
       "model": "https://cauchoyselva.github.io/wauro-assets/models/SK_Tucu.glb",
       "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_Tucu.png",
+      "media": [],
+      "umbral": false
+    },
+    {
+      "id": "casco-salacot",
+      "catalog": "WA.VA.B.0024",
+      "category": "artefactos",
+      "clase": "No indígena",
+      "subclase": "Accesorios personales",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Salacot",
+        "en": "Pilot",
+        "ptbr": "Piloto"
+      },
+      "desc": {
+        "es": "<p>El salacot o casco de médula era un casco ligero y rígido, elaborado tradicionalmente con médula de shola, un material vegetal blando y poroso, y recubierto de tela. Desarrollado a partir de sombreros utilizados en el sur y sudeste asiático, fue adoptado por militares, administradores coloniales, exploradores y viajeros europeos durante los siglos XIX y XX. Diseñado para proteger la cabeza y el rostro del sol intenso y el calor, llegó a estar estrechamente asociado con la presencia colonial europea en las regiones tropicales, donde también funcionó como un distintivo visual de la autoridad colonial.</p>",
+        "en": "<p>The pith helmet, or pith helmet, was a lightweight, rigid helmet traditionally made from the pith of the shola plant, a soft, porous plant material, and covered with fabric. Developed from hats used in South and Southeast Asia, it was adopted by European soldiers, colonial administrators, explorers, and travelers during the 19th and 20th centuries. Designed to protect the head and face from the intense sun and heat, it became closely associated with the European colonial presence in tropical regions, where it also served as a visual symbol of colonial authority.</p>",
+        "ptbr": "<p>O capacete de cortiça, ou capacete colonial, era um capacete leve e rígido, tradicionalmente feito da medula da planta shola, um material vegetal macio e poroso, e coberto com tecido. Desenvolvido a partir de chapéus usados ​​no Sul e Sudeste Asiático, foi adotado por soldados, administradores coloniais, exploradores e viajantes europeus durante os séculos XIX e XX. Projetado para proteger a cabeça e o rosto do sol e do calor intensos, tornou-se intimamente associado à presença colonial europeia em regiões tropicais, onde também serviu como um símbolo visual da autoridade colonial.</p>"
+      },
+      "otros_nombres": "Pith Helmet, Casco Colonial",
+      "materiales": {
+        "es": "Shola, Tela de XXX, Metal",
+        "en": "Shola, XXX Fabric, Metal",
+        "ptbr": "Shola, Tecido XXX, Metal"
+      },
+      "dimensiones": "",
+      "pueblo": "Inglés",
+      "lugar": "Reino Unido",
+      "asociaciones": "",
+      "bibliografia": "",
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_CascoSalacot.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_SombreroCauchero.png",
+      "media": [
+        {
+          "type": "image",
+          "caption": {
+            "es": "Salacot del Servicio Exterior Británico",
+            "en": "British Foreign Service pith helmet",
+            "ptbr": "capacete colonial do Serviço Diplomático Britânico"
+          },
+          "source": "",
+          "src": "https://cauchoyselva.github.io/wauro-assets/media/Pith_Helmet_I.jpg"
+        },
+        {
+          "type": "image",
+          "caption": {
+            "es": "Salacot del Servicio Exterior Británico",
+            "en": "British Foreign Service pith helmet",
+            "ptbr": "capacete colonial do Serviço Diplomático Britânico"
+          },
+          "source": "",
+          "src": "https://cauchoyselva.github.io/wauro-assets/media/Pith_Helmet_II.jpg"
+        }
+      ],
+      "umbral": false
+    },
+    {
+      "id": "taparrabos-fibra",
+      "catalog": "WA.VA.B.0025",
+      "category": "artefactos",
+      "clase": "Indígena",
+      "subclase": "Accesorios personales",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Taparrabos de fibra",
+        "en": "Fiber loincloth",
+        "ptbr": "tanga de fibra"
+      },
+      "desc": {
+        "es": "<p>Taparrabos masculino hecho con varias hebras de fibra natural amarrados a un hilo conductor de fibra natural</p>",
+        "en": "<p>Men's loincloth made with several strands of natural fiber tied to a conductive thread of natural fiber</p>",
+        "ptbr": "<p>Tanga masculina feita com vários fios de fibra natural amarrados a um fio condutor de fibra natural.</p>"
+      },
+      "otros_nombres": "",
+      "materiales": {
+        "es": "",
+        "en": "",
+        "ptbr": ""
+      },
+      "dimensiones": "",
+      "pueblo": "Makuna",
+      "lugar": "Colombia>Vaupés>Río Apaporis",
+      "asociaciones": "",
+      "bibliografia": "",
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_TaparrabosFibra.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_CalzonTucu.png",
+      "media": [
+        {
+          "type": "image",
+          "caption": {
+            "es": "Hombre makuna con taparrabos de fibra I",
+            "en": "Makuna man with fiber loincloth I",
+            "ptbr": "Homem Makuna com tanga de fibra I"
+          },
+          "source": "Koch-Grünberg, T. (1906). Indianertypen aus dem Amazonasgebiet nach eigenen Aufnahmen während seiner Reise in Brasilien. Berlin: E. Wasmuth A.-G",
+          "src": "https://cauchoyselva.github.io/wauro-assets/media/Hombre_makuna_con_taparrabos_de_fibra.png"
+        },
+        {
+          "type": "image",
+          "caption": {
+            "es": "Hombre makuna con taparrabos de fibra II",
+            "en": "Makuna man with fiber loincloth II",
+            "ptbr": "Homem Makuna com tanga de fibra II"
+          },
+          "source": "Koch-Grünberg, T. (1906). Indianertypen aus dem Amazonasgebiet nach eigenen Aufnahmen während seiner Reise in Brasilien. Berlin: E. Wasmuth A.-G",
+          "src": "https://cauchoyselva.github.io/wauro-assets/media/Hombre_makuna_con_taparrabos_de_fibra_II.png"
+        }
+      ],
+      "umbral": false
+    },
+    {
+      "id": "insignias-militares-britanicas",
+      "catalog": "WA.VA.B.0026",
+      "category": "artefactos",
+      "clase": "No indígena",
+      "subclase": "Ceremonial",
+      "provenance": "reconstruccion",
+      "name": {
+        "es": "Insignias Militares Británicas",
+        "en": "British Military Insignia",
+        "ptbr": "Insígnias militares britânicas"
+      },
+      "desc": {
+        "es": "<p>Las **insignias militares británicas** eran emblemas utilizados en los uniformes, gorras y otros elementos de la indumentaria militar para identificar a los regimientos, cuerpos y rangos dentro de las fuerzas armadas del Imperio británico. Elaboradas habitualmente en metal, tela o bordado, incorporaban escudos, coronas, animales, símbolos heráldicos y otros motivos vinculados a cada unidad. Durante el periodo colonial, estas insignias no solo cumplían una función práctica de identificación, sino que también constituían símbolos visibles de la organización, jerarquía y autoridad militar británica en los territorios bajo dominio imperial.</p>",
+        "en": "<p>British military insignia were emblems worn on uniforms, caps, and other items of military dress to identify regiments, corps, and ranks within the armed forces of the British Empire. Typically made of metal, fabric, or embroidery, they incorporated shields, crowns, animals, heraldic symbols, and other motifs associated with each unit. During the colonial period, these insignia not only served a practical function of identification but also constituted visible symbols of British military organization, hierarchy, and authority in territories under imperial rule.</p>",
+        "ptbr": "<p>As insígnias militares britânicas eram emblemas usados ​​em uniformes, bonés e outras peças de vestuário militar para identificar regimentos, corpos e patentes dentro das forças armadas do Império Britânico. Normalmente feitas de metal, tecido ou bordado, incorporavam escudos, coroas, animais, símbolos heráldicos e outros motivos associados a cada unidade. Durante o período colonial, essas insígnias não apenas serviam a uma função prática de identificação, mas também constituíam símbolos visíveis da organização militar britânica, da hierarquia e da autoridade nos territórios sob domínio imperial.</p>"
+      },
+      "otros_nombres": "",
+      "materiales": {
+        "es": "Metal",
+        "en": "Metal",
+        "ptbr": "Metal"
+      },
+      "dimensiones": "",
+      "pueblo": "Inglés",
+      "lugar": "Reino Unido",
+      "asociaciones": "",
+      "bibliografia": "",
+      "model": "https://cauchoyselva.github.io/wauro-assets/models/SM_InsigniasMilitaresBritanicas.glb",
+      "thumb": "https://cauchoyselva.github.io/wauro-assets/thumbs/T_MedallasCauchero.png",
       "media": [],
       "umbral": false
     }
